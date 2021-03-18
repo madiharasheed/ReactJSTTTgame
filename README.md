@@ -1,2 +1,5 @@
-# ReactJSTTTgame
-React Tic Tac Toe
+# ReactTicTacToe
+TicTacToe Game
+
+
+
